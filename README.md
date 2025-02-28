@@ -41,7 +41,7 @@ This repository contains **C++ and Python implementations** of various **sorting
 │── 📜 counting_sort.py
 │── 📜 radix_sort.py
 │── 📜 bucket_sort.py
-│── 📜 README.md  👈 (This file)
+│── 📜 README.md  
 ```
 
 ## ⏳ Time Complexity Comparison  
