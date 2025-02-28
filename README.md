@@ -61,7 +61,7 @@ This repository contains **C++ and Python implementations** of various **sorting
 ## 💡 How to Use?  
 1️⃣ Clone this repository  
 ```sh
-git clone https://github.com/your-username/Sorting-Algorithms.git
+git clone https://github.com/CyberMatic-AmAn/Sorting.git
 ```  
 2️⃣ Compile and run any sorting program  
 For C++:
