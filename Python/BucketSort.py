@@ -14,4 +14,3 @@ def bucket_sort(arr):
         sorted_arr.extend(sorted(bucket))
 
     return sorted_arr
-
